@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fortunatusmokaya
-- 👀 I’m interested in CyberSecurity, Random Tech Stuffs and Human Health Care at large 
-- 🌱 I’m currently learning about android pentesting & JavaScript Frameworks.
-- 🚀 I’m looking to collaborate on development of Advanced WhatsApp Bots, High level spoofing mailbox and remodelling of WhatsApp Apps!
-- Remember you are not LIMITED 👾
+- 👀 I’m interested in CyberSecurity, Random Tech Stuffs and Human Health Care.
+- 🌱 I’m currently learning about JavaScript Frameworks.
+- 🚀 I’m looking to collaborate on development of advanced WhatsApp bots in JavaScript()
+- you are not LIMITED 
   
 
 <!---
