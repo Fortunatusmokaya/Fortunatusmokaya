@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Fortunatusmokaya
-- 👀 I’m interested in CyberSecurity, Random Tech Stuffs and Human Health Care.
+- I do low level "coding and programming".
+- 👀 I’m interested in Random Tech Stuffs and Human Health Care.
 - 🌱 I’m currently learning about JavaScript Frameworks.
-- 🚀 I’m looking to collaborate on development of advanced WhatsApp bots in JavaScript()
-- you are not LIMITED 
+- 🚀 I’m looking to collaborate in any simple projects.
+- You are not LIMITED... 
   
 
 <!---
